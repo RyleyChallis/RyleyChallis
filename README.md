@@ -9,7 +9,7 @@ I focus on building lightweight sites without the bloat of heavy frameworks. Tha
 * **Interactive Elements:** Lightweight Vanilla JS for navigation bars, sidebars, and UI toggles.
 * **Lead Generation:** Custom contact forms wired directly to Google Sheets via Apps Script so leads land instantly.
 
-**Featured Projects**
+### **Featured Projects**
 **Il Cortile** Concept build for an upscale Italian restaurant
 https://github.com/RyleyChallis/il-cortile
 
