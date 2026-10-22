@@ -10,10 +10,10 @@ I focus on building lightweight sites without the bloat of heavy frameworks. Tha
 * **Lead Generation:** Custom contact forms wired directly to Google Sheets via Apps Script so leads land instantly.
 
 **Featured Projects**
-**Il Cortile** ── Concept build for an upscale Italian restaurant
+**Il Cortile** Concept build for an upscale Italian restaurant
 https://github.com/RyleyChallis/il-cortile
 
-**Tipsy Kisses** ── Concept design for a luxury bar service─independent project, **no commercial affiliation**
+**Tipsy Kisses** Concept design for a luxury bar service─independent project, **no commercial affiliation**
 https://github.com/RyleyChallis/tipsy-kisses
 
 🌐 ryleychallis.co.uk
