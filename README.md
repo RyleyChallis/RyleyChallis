@@ -11,9 +11,9 @@ I focus on building lightweight sites without the bloat of heavy frameworks. Tha
 
 ### **Featured Projects**
 **Il Cortile** Concept build for an upscale Italian restaurant
-https://github.com/RyleyChallis/il-cortile
+https://ryleychallis.github.io/il-cortile/
 
 **Tipsy Kisses** Concept design for a luxury bar service─independent project, **no commercial affiliation**
-https://github.com/RyleyChallis/tipsy-kisses
+https://ryleychallis.github.io/tipsy-kisses/
 
 🌐 ryleychallis.co.uk
