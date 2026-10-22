@@ -5,9 +5,9 @@ Web developer based in Brighton, UK. I build fast, clean websites using HTML, CS
 ## What I Do
 I focus on building lightweight sites without the bloat of heavy frameworks. That means faster load times, better Core Web Vitals, and code that's easy to maintain.
 
-**Clean Code:** Hand-coded HTML5 and modern CSS layouts.
-**Interactive Elements:** Lightweight Vanilla JS for navigation bars, sidebars, and UI toggles.
-**Lead Generation:** Custom contact forms wired directly to Google Sheets via Apps Script so leads land instantly.
+* **Clean Code:** Hand-coded HTML5 and modern CSS layouts.
+* **Interactive Elements:** Lightweight Vanilla JS for navigation bars, sidebars, and UI toggles.
+* **Lead Generation:** Custom contact forms wired directly to Google Sheets via Apps Script so leads land instantly.
 
 **Featured Projects**
 **Il Cortile** ── Concept build for an upscale Italian restaurant
