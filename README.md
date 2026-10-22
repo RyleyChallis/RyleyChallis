@@ -16,4 +16,4 @@ https://ryleychallis.github.io/il-cortile/
 **Tipsy Kisses** Concept design for a luxury bar service─independent project, **no commercial affiliation**
 https://ryleychallis.github.io/tipsy-kisses/
 
-🌐 ryleychallis.co.uk
+🌐 https://ryleychallis.co.uk
